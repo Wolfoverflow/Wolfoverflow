@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+#### 🌱 I’m currently trying to learn something other than Python.
+#### 🔭 I’m currently working on making computer viruses
+#### 😄 Pronouns: Any/Pronoun
+#### ⚡ Fun fact: I had ADHD
 <!--
 **Wolfoverflow/Wolfoverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
